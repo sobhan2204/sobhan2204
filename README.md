@@ -1,5 +1,39 @@
 # 💫 About Me:
-I'm am current a computer science undergraduate at Japyee Institute Of Information Technology, Noida<br>My current working project is a Agentic Ai using Langgraph and mcp server.<br>I've done an internship at Interpro , where I was not only leading my team but also worked as AI intern providing AI solutions <br>While AI/ML being my first interest I am actively working on my development skills.<br><br>
+Hi, I'm Sobhan 👋  
+Computer Science undergraduate at Jaypee Institute of Information Technology, Noida.
+My primary focus is on building intelligent systems, with hands-on
+experience in AI model development, agent-based architectures, and API-driven services.
+
+### 🚀 Current Work
+I am currently developing an **Agentic AI system** using **LangGraph** and an **MCP server**,
+focused on performing multi-step reasoning, tool usage, and structured execution
+for real-world AI workflows.
+
+### 💼 Experience
+**AI Developer & Group Leader – InterPro**
+- Led a small team during my internship while contributing as an AI Developer
+- Designed and implemented AI-based solutions for an Ai interview platform
+- Coordinated model development and integration
+
+### 🧠 Skills
+**AI / Machine Learning**
+- Python, NumPy, Pandas
+- Scikit-learn, TensorFlow / PyTorch
+- CNNs, classification models
+- Model evaluation and optimization
+
+**Backend & Systems**
+- FastAPI / Node.js
+- RESTful APIs
+- Authentication (JWT)
+- Database design
+- Deployment fundamentals
+
+### 📚 Currently Learning
+- Backend system design for AI-driven applications
+- Scalable deployment of ML models
+- Production-ready agent architectures
+
 
 
 ## 🌐 Socials:
