@@ -11,7 +11,7 @@
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=header" width="100%"/>
+---
 
 ## 🧑‍💻 About Me
 
@@ -102,14 +102,13 @@ MultiSSL + U-KAN segmentation on 3.4GB+ of Sentinel-2 satellite imagery.
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sobhan2204&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=true&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sobhan2204&theme=tokyonight&hide_border=true&layout=compact)
-
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=sobhan2204&theme=tokyonight&hide_border=true)
+![Followers](https://img.shields.io/github/followers/sobhan2204?label=Followers&style=for-the-badge&color=6C5CE7&logoColor=white)
+![Stars](https://img.shields.io/github/stars/sobhan2204?label=Stars&style=for-the-badge&color=FF6B00&logoColor=white)
+![Profile Views](https://komarev.com/ghpvc/?username=sobhan2204&label=Profile+Views&style=for-the-badge&color=0077B5)
 
 </div>
 
-> 📌 *If the stat cards above don't render, it's usually a temporary GitHub-Readme-Stats server hiccup — refreshing the page or waiting a minute fixes it.*
+> 📌 *Note: the classic GitHub-Readme-Stats card service has shut down (the maintainer announced it can no longer cover hosting costs), so the badges above use shields.io and komarev.com instead — both actively maintained and reliable.*
 
 <div align="center">
 
@@ -123,8 +122,4 @@ MultiSSL + U-KAN segmentation on 3.4GB+ of Sentinel-2 satellite imagery.
 
 *Always up for a conversation about AI agents, RAG systems, or why observability matters.*
 
-<sub>[![Profile Views](https://visitcount.itsvg.in/api?id=sobhan2204&icon=0&color=0)](https://visitcount.itsvg.in)</sub>
-
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
