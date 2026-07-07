@@ -101,19 +101,27 @@ MultiSSL + U-KAN segmentation on 3.4GB+ of Sentinel-2 satellite imagery.
 ## 📊 The Numbers
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=sobhan2204&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=true" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sobhan2204&theme=tokyonight&hide_border=true&layout=compact" height="165"/>
-<br/>
-<img src="https://nirzak-streak-stats.vercel.app/?user=sobhan2204&theme=tokyonight&hide_border=true"/>
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sobhan2204&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=true&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sobhan2204&theme=tokyonight&hide_border=true&layout=compact)
+
+![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=sobhan2204&theme=tokyonight&hide_border=true)
+
 </div>
 
+> 📌 *If the stat cards above don't render, it's usually a temporary GitHub-Readme-Stats server hiccup — refreshing the page or waiting a minute fixes it.*
+
 <div align="center">
+
+## 🌐 Want to see more of my work?
+
+<a href="https://portfolio-inky-eight-95.vercel.app/">
+  <img src="https://img.shields.io/badge/🚀%20VISIT%20MY%20PORTFOLIO-FF6B00?style=for-the-badge&logoColor=white&labelColor=1a1a2e&color=FF6B00" height="55"/>
+</a>
 
 ### 💬 Let's Connect
 
 *Always up for a conversation about AI agents, RAG systems, or why observability matters.*
-
-[![Portfolio](https://img.shields.io/badge/Check_out_my_Portfolio-6C5CE7?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-inky-eight-95.vercel.app/)
 
 <sub>[![Profile Views](https://visitcount.itsvg.in/api?id=sobhan2204&icon=0&color=0)](https://visitcount.itsvg.in)</sub>
 
