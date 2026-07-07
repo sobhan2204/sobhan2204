@@ -1,98 +1,122 @@
 <div align="center">
 
-# Sobhan Panda
+# Hey, I'm Sobhan 👋
 
-**Software Engineer — Generative AI · Agentic Systems · Backend Engineering**
+### Building agentic AI systems, one tool call at a time 🤖
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://portfolio-inky-eight-95.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sobhan-panda-2277b7297/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:pandasobhan22@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/sobhan2204)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-inky-eight-95.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sobhan-panda-2277b7297/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pandasobhan22@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sobhan2204)
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=header" width="100%"/>
 
-### About
+## 🧑‍💻 About Me
 
-I'm a Computer Science undergraduate at Jaypee Institute of Information Technology, Noida (B.Tech, 2023–2027), focused on building **agentic AI frameworks**, **RAG architectures**, and **production-grade backend and observability systems**. My work spans LLM orchestration, retrieval systems, and scalable API design — with a growing focus on making AI systems reliable and observable in production.
+```python
+class Sobhan:
+    def __init__(self):
+        self.role = "CS Undergrad @ JIIT Noida (2023–2027)"
+        self.focus = ["Agentic AI", "RAG Systems", "Backend Engineering"]
+        self.currently_building = "Cloud observability platform @ LTM 📈"
+        self.fun_fact = "Once mapped avalanche zones from 3.4GB of satellite imagery 🏔️"
 
----
+    def say_hi(self):
+        return "Let's build something intelligent together!"
+```
 
-### Experience
+## 💼 Where I've Worked
+
+| | | |
+|---|---|---|
+| 🔭 | **Software Engineer Intern** @ LTM *(Jun 2026 – Present)* | Building a cloud-ready observability platform — Prometheus, Grafana & OpenTelemetry dashboards keeping infra reliable as it ships to the cloud. |
+| 🎤 | **AI Engineer Intern, Team Lead** @ Internpro *(Jun–Jul 2025)* | Led a squad of interns building a voice-enabled AI interview chatbot — fine-tuned it to **91.3% accuracy**. |
+
+## 🚀 Things I've Built
 
 <table>
 <tr>
-<td width="200"><b>Software Engineer Intern</b><br/>LTM, Noida<br/><sub>June 2026 – Present</sub></td>
-<td>
-Building a cloud-ready observability platform using Prometheus, Grafana, and OpenTelemetry for monitoring infrastructure, services, and application performance. Designing dashboards, alerting pipelines, and metrics collection systems to ensure reliability as the platform scales to the cloud.
+<td width="33%" valign="top">
+
+### 🧩 Agentic Framework
+**ReWOO · MCP · LSTM · JWT**
+
+Modular agent system (Planner → Worker → Solver → Refiner) with dynamic MCP tool orchestration.
+
+⚡ Sub-3s responses
+✅ 80% task completion rate
+
 </td>
-</tr>
-<tr>
-<td width="200"><b>AI Engineer Intern (Team Lead)</b><br/>Internpro, Remote<br/><sub>June 2025 – July 2025</sub></td>
-<td>
-Led a team of interns to build a voice-enabled AI interview chatbot from scratch. Built datasets from scraped interview content, applied clustering across roles, and improved response quality through LLM fine-tuning — reaching <b>91.3% accuracy</b>.
+<td width="33%" valign="top">
+
+### 🔍 Multi-RAG Study
+**FAISS · BM25 · KG · FastAPI**
+
+Combined vector search, BM25 & knowledge graphs across 4 medical policy docs.
+
+🎯 87.6% groundedness score
+🤖 LLM-as-a-judge validation
+
+</td>
+<td width="33%" valign="top">
+
+### 🏔️ Avalanche Mapping
+**CV · Neural Nets · Flask**
+
+MultiSSL + U-KAN segmentation on 3.4GB+ of Sentinel-2 satellite imagery.
+
+📍 15+ restoration sites found
+🛰️ Geospatial ML pipeline
+
 </td>
 </tr>
 </table>
 
----
+## 🛠️ My Toolbox
 
-### Featured Projects
-
-**AI Agent Framework with Dynamic MCP Tool Orchestration**
-`ReWOO` · `MCP` · `LSTM` · `JWT`
-Modular agentic framework implementing the ReWOO architecture (Planner, Worker, Solver, Refiner) with a dynamic MCP registry for tool orchestration — sub-3-second response times and an 80% task completion rate on complex multi-step queries.
-
-**Comparative Study of Multi-RAG Architectures**
-`FAISS` · `BM25` · `Knowledge Graphs` · `FastAPI`
-Multi-retriever RAG system combining vector search, BM25, and knowledge graphs across 4 medical policy documents, with an LLM-as-a-judge validator achieving an 87.6% groundedness and retrieval-quality score.
-
-**Avalanche Susceptibility Mapping**
-`Computer Vision` · `Neural Networks` · `Flask`
-Geospatial ML pipeline processing 3.4 GB+ of Sentinel-2 satellite imagery, training a MultiSSL + U-KAN segmentation model with DEM-derived terrain features to identify 15+ optimal vegetation-restoration sites.
-
----
-
-### Technical Skills
+<div align="center">
 
 **Languages**
-Python · JavaScript · C++ · C · R · SQL
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black) ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 
 **AI / ML & LLMOps**
-LangChain · LangGraph · MCP · RAG · AI Agents · vLLM · DSPy · FAISS · Pinecone · Knowledge Graphs · LLM Evaluation · TensorFlow · PyTorch · Keras · Scikit-learn
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white) ![scikit--learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
 **Backend & Systems**
-FastAPI · Node.js / Express · API Design · Microservices · System Design · Distributed Systems · JWT Auth · Docker
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 **Data & Storage**
-PostgreSQL · MySQL · MongoDB · Redis · Caching Strategies
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
-**DevOps, Cloud & Observability**
-AWS (EC2, S3, ECR) · CI/CD (GitHub Actions) · Git · Prometheus · Grafana · OpenTelemetry
+**Cloud & Observability**
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white) ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
----
+</div>
 
-### Currently Learning
-Backend system design for AI-driven applications · Scalable ML model deployment · Production-ready agent architectures
+## 📚 Currently Leveling Up
+🔧 Backend system design for AI-driven apps · 📦 Scalable ML deployment · 🧠 Production-ready agent architectures
 
----
-
-### GitHub Stats
+## 📊 The Numbers
 
 <div align="center">
-
 <img src="https://github-readme-stats.vercel.app/api?username=sobhan2204&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=true" height="165"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sobhan2204&theme=tokyonight&hide_border=true&layout=compact" height="165"/>
-
+<br/>
 <img src="https://nirzak-streak-stats.vercel.app/?user=sobhan2204&theme=tokyonight&hide_border=true"/>
-
 </div>
 
 <div align="center">
-<sub>
 
-[![Profile Views](https://visitcount.itsvg.in/api?id=sobhan2204&icon=0&color=0)](https://visitcount.itsvg.in)
+### 💬 Let's Connect
 
-</sub>
+*Always up for a conversation about AI agents, RAG systems, or why observability matters.*
+
+[![Portfolio](https://img.shields.io/badge/Check_out_my_Portfolio-6C5CE7?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-inky-eight-95.vercel.app/)
+
+<sub>[![Profile Views](https://visitcount.itsvg.in/api?id=sobhan2204&icon=0&color=0)](https://visitcount.itsvg.in)</sub>
+
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
