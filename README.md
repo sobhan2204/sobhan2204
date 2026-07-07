@@ -106,11 +106,6 @@ MultiSSL + U-KAN segmentation on 3.4GB+ of Sentinel-2 satellite imagery.
 ![Stars](https://img.shields.io/github/stars/sobhan2204?label=Stars&style=for-the-badge&color=FF6B00&logoColor=white)
 ![Profile Views](https://komarev.com/ghpvc/?username=sobhan2204&label=Profile+Views&style=for-the-badge&color=0077B5)
 
-</div>
-
-> 📌 *Note: the classic GitHub-Readme-Stats card service has shut down (the maintainer announced it can no longer cover hosting costs), so the badges above use shields.io and komarev.com instead — both actively maintained and reliable.*
-
-<div align="center">
 
 ## 🌐 Want to see more of my work?
 
