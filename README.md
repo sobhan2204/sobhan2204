@@ -20,8 +20,8 @@ class Sobhan:
     def __init__(self):
         self.role = "CS Undergrad @ JIIT Noida (2023–2027)"
         self.focus = ["Agentic AI", "RAG Systems", "Backend Engineering"]
-        self.currently_building = "Cloud observability platform @ LTM 📈"
-        self.fun_fact = "Once mapped avalanche zones from 3.4GB of satellite imagery 🏔️"
+        self.currently_building = "Cloud observability platform @ LTM "
+        self.fun_fact = "Coding while listning to soft music with a cup of coffee - that's my idea of a perfect evening."
 
     def say_hi(self):
         return "Let's build something intelligent together!"
