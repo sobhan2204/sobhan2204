@@ -31,8 +31,8 @@ class Sobhan:
 
 | | | |
 |---|---|---|
-| 🔭 | **Software Engineer Intern** @ LTM *(Jun 2026 – Present)* | Building a cloud-ready observability platform — Prometheus, Grafana & OpenTelemetry dashboards keeping infra reliable as it ships to the cloud. |
-| 🎤 | **AI Engineer Intern, Team Lead** @ Internpro *(Jun–Jul 2025)* | Led a squad of interns building a voice-enabled AI interview chatbot — fine-tuned it to **91.3% accuracy**. |
+|  | **Software Engineer Intern** @ LTM *(Jun 2026 – Present)* | Building a cloud-ready observability platform — Prometheus, Grafana & OpenTelemetry dashboards keeping infra reliable as it ships to the cloud. |
+|  | **Software Engineer-AI/ML Intern @ Trafiksol IT Technologies (Apr 2025–May 2026) | Built the LangGraph agent behind an AI traffic-signal system. It recommends timing changes using forecasting, policy-RAG and anomaly services, with a non-LLM safety check on every action and human escalation when it lacks grounding. Also fine-tuned and quantized a small language model for an internal company chatbot. |**. |
 
 ## 🚀 Things I've Built
 
